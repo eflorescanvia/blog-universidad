@@ -1,2 +1,17 @@
-# blog-universidad
-It's a project dedicated to the growth of the community through an events on blog
+Blog Universidad
+
+[Project Description]
+
+[Instalation]
+- Requeriments
+- Version
+- Properties projects
+
+[Uso]
+
+[Documentation]
+
+[Rodmap]
+
+[License]
+
